@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\catalog.h(199,20): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\inventory1.h(107,21): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\inventory1.h(90,7): warning C4101: 'g': unreferenced local variable
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\csrt.h(169,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\csrt.h(181,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\csrt.h(185,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\csrt.h(132,7): warning C4101: 'pos': unreferenced local variable
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\costumer.h(278,9): warning C4101: 'pos': unreferenced local variable
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\manager.h(194,9): warning C4101: 'pos': unreferenced local variable
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\manager.h(268,22): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\Admin.h(56,7): warning C4129: '9': unrecognized character escape sequence
+C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\Admin.h(425,20): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  fyp.vcxproj -> C:\Users\hector\Desktop\OOP LAB1\OOP ASSIGNMENT1\fyp\x64\Debug\fyp.exe
